@@ -1,4 +1,4 @@
-#Greek salad
+# Greek salad
 
 Prep: 15 mins no cook
 
@@ -8,7 +8,7 @@ Serves 4 as a side - easily doubled for main course
 
 Make a fresh and colourful Greek salad in no time. It's great with grilled meats at a barbecue, or on its own as a veggie main
 
-##Ingredients
+## Ingredients
 
     4 large vine tomatoes, cut into irregular wedges
     1 cucumber, peeled, deseeded, then roughly chopped
@@ -22,7 +22,7 @@ Make a fresh and colourful Greek salad in no time. It's great with grilled meats
     85g feta cheese, cut into chunks (barrel matured feta is the best)
     4 tbsp Greek extra virgin olive oil
     
-##Method
+## Method
 
     Place 4 large vine tomatoes, cut into wedges, 1 peeled, deseeded and chopped cucumber, ½ a thinly sliced red onion, 16 Kalamata olives, 1 tsp dried oregano, 85g feta cheese chunks and 4 tbsp Greek extra virgin olive oil in a large bowl.
 
