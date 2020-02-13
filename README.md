@@ -1,5 +1,5 @@
 # Book of Recipes
-* [Fish Tacos] (fishtacos.md)
+* [Fish Tacos](fishtacos.md)
 
 
 ## Cold sauces
